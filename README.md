@@ -1,7 +1,6 @@
 # Web API на Python (FastAPI)
 
 Порт проекта `Web_api_Csharp` (ASP.NET Core + EF Core) на **FastAPI + SQLAlchemy (async) + Alembic**.
-Эндпоинты, параметры, названия таблиц и колонок совпадают с C#-версией, поэтому обе реализации могут работать с одной и той же базой.
 
 ## Структура
 
